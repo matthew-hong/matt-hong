@@ -22,5 +22,6 @@ author_profile: true
 
 ## Work-in-Progress
 
-1. <b> Panel Data Quantile Regression with Grouped Fixed Effects via Mixed Integer Linear Programming </b>
-1. <b> [Joint_work] </b>
+1. <b> Flexible Distribution Regression using Neural Networks (with V. Chernozhukov, I. Fernandez-Val, V. Quintas-Martinez) </b>
+1. <b> Panel Data Quantile Regression with Grouped Fixed Effects </b>
+
