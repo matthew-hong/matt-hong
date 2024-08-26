@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Matt Hong"
+title                    : "Matthew M. Hong"
 title_separator          : "-"
-name                     : &name "Matt Hong"
-description              : &description "Homepage for Matt Hong"
+name                     : &name "Matthew M. Hong"
+description              : &description "Homepage for Matthew M. Hong"
 url                      : https://matthew-hong.github.io/home/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "matthew-hong/matt-hong"
@@ -22,7 +22,7 @@ repository               : "matthew-hong/matt-hong"
 author:
   # Biographic information
   avatar           : "profile_1.png"
-  name             : "Matt Hong"
+  name             : "Matthew M. Hong"
   pronouns         : # example: "she/her"  
   bio              : "Economics PhD Candidate, Boston University"
   location         : "Boston, MA"
