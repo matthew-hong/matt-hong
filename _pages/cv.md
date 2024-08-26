@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<object data="../files/Matt_Hong_BU_Econ_CV.pdf" width="1000" height="1000" type='application/pdf'></object>
+<embed src="{{ site.baseurl }}/files/Matt_Hong_BU_Econ_CV.pdf" width="600" height="700" type='application/pdf'> 
