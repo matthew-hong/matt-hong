@@ -24,7 +24,7 @@ author:
   avatar           : "profile_1.png"
   name             : "Matthew M. Hong"
   pronouns         : # example: "she/her"  
-  bio              : "Economics PhD Candidate, Boston University"
+  bio              : "Economics PhD Candidate <br/> Boston University"
   location         : "Boston, MA"
   employer         : "Boston University"
   uri              : # URL
