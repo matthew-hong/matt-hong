@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="https://matthew-hong.github.io//files/Matt_Hong_BU_Econ_CV.pdf" type="application/pdf"/>
+Download my [CV]("https://matthew-hong.github.io//files/Matt_Hong_BU_Econ_CV.pdf")
