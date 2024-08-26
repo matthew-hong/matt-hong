@@ -10,7 +10,8 @@ author_profile: true
 ## Working Papers
 
 <b> Heterogeneous Treatment Effects Analysis via Distribution Regression based Changes-in-Changes </b> (Job Market Paper)
-:     <details>
+
+<details>
 <summary markdown='span'>
 <span style="cursor:pointer"> <i> Abstract </i></span>
 </summary>
