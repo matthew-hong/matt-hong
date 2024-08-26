@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Matt Hong"
 title_separator          : "-"
 name                     : &name "Matt Hong"
-description              : &description "personal description"
+description              : &description "Homepage for Matt Hong"
 url                      : https://matthew-hong.github.io/home/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "matthew-hong/matt-hong"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Matt Hong"
   pronouns         : # example: "she/her"  
-  bio              : "Economics PhD Candidate"
+  bio              : "Economics PhD Candidate, Boston University"
   location         : "Boston, MA"
   employer         : "Boston University"
   uri              : # URL
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "hongmatt" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
