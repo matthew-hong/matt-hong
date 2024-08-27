@@ -9,6 +9,10 @@ redirect_from:
 
 I am an economics PhD candidate at [Boston University](https://www.bu.edu/econ/). My research is centered around applied and theoretical econometrics with applications to labor and health economics. I am interested in developing econometric and statistical tools to better understand distributional outcomes and to flexibly estimate heterogeneous treatment effects of regulatory and welfare policies on outcomes of interest. 
 
+<br>
+
+Prior to my PhD, I completed an MPhil in Economics at Oxford University (St. Cross College) and an Honours BSc in Economics, Mathematics and Statistics at the University of Toronto (Trinity College).
+
 ## Working Papers
 
 <b> Heterogeneous Treatment Effects Analysis via Distribution Regression based Changes-in-Changes </b> (Job Market Paper)
