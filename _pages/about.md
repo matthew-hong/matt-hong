@@ -11,7 +11,7 @@ I am an economics PhD candidate at [Boston University](https://www.bu.edu/econ/)
 
 <br>
 
-Prior to my PhD, I completed an MPhil in Economics at Oxford University (St. Cross College) and an Honours BSc in Economics, Mathematics and Statistics at the University of Toronto (Trinity College).
+Prior to my PhD, I completed an MPhil in Economics at [Oxford University](https://www.economics.ox.ac.uk) (St. Cross College) and an Honours BSc in Economics, Mathematics and Statistics at the [University of Toronto](https://www.economics.utoronto.ca) (Trinity College).
 
 ## Working Papers
 
