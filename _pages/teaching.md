@@ -15,3 +15,5 @@ EC702 - Macroeconomic Theory (Fall 2020)
  * Boston University, Teaching Fellow, first-year PhD-level course.
  * Weekly discussions sessions on economic growth models, dynamic programming, and MATLAB programming.
 
+## Other Engagements
+ * Organizer, Econometrics Reading Group at Boston University, 2022-2023,
