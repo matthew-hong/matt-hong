@@ -11,7 +11,7 @@ I am an economics PhD candidate at [Boston University](https://www.bu.edu/econ/)
 
 ## Working Papers
 
-<b> Heterogeneous Treatment Effects Analysis via Distribution Regression based Changes-in-Changes </b>
+<b> Heterogeneous Treatment Effects Analysis via Distribution Regression based Changes-in-Changes </b> (Job Market Paper)
 
 <details>
 <summary markdown='span'>
