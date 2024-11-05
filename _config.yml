@@ -21,7 +21,7 @@ repository               : "matthew-hong/matthew-hong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "MatthewHong_Photo.png"
+  avatar           : "MatthewHong_Photo.jpg"
   name             : "Matthew M. Hong"
   pronouns         : # example: "she/her"  
   bio              : "Economics PhD Candidate <br/> Boston University"
