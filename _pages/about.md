@@ -13,7 +13,7 @@ Prior to my PhD, I completed an MPhil in Economics at [Oxford University](https:
 
 ## Working Papers
 
-<b> Heterogeneous Treatment Effects Analysis via Distribution Regression based Changes-in-Changes </b> ([Job Market Paper](https://www.dropbox.com/scl/fi/5s0gtm2fdxoypfn6ivvrx/Matthew_Hong_JMP-1.pdf?rlkey=ljlh22i5oyi6vi7uae737xie6&st=oqz1z7vn&dl=0))
+<b> Heterogeneous Treatment Effects Analysis via Distribution Regression based Changes-in-Changes </b> ([Job Market Paper](files/Matthew_Hong_JMP (1).pdf))
 
 <details>
 <summary markdown='span'>
